@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/AssaultKoder95/Coursera-NodeJS/issues"
   },
-  "homepage": "https://github.com/AssaultKoder95/Coursera-NodeJS#readme"
+  "homepage": "https://github.com/AssaultKoder95/Coursera-NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
 }
