@@ -1,0 +1,26 @@
+{
+  "name": "coursera-node-js",
+  "version": "1.0.0",
+  "description": "Solution to exercises done in the course : https://www.coursera.org/learn/server-side-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssaultKoder95/Coursera-NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Javascript",
+    "Server",
+    "Side",
+    "Development"
+  ],
+  "author": "AssaultKoder95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssaultKoder95/Coursera-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AssaultKoder95/Coursera-NodeJS#readme"
+}
