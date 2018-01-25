@@ -4,7 +4,8 @@
   "description": "Solution to exercises done in the course : https://www.coursera.org/learn/server-side-nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
